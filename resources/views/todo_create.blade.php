@@ -14,7 +14,7 @@
         <style>
 table, th, td {
   border:1px solid black;
-  background-color: rgb(215, 250, 215);
+  background-color: rgb(215, 250, 216);
 }
 </style>
         <a href="todo_show">Back</a><br/><br/>
